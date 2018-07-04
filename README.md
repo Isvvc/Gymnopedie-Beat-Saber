@@ -14,3 +14,28 @@ Gymnopédie - Beat Saber is a community effort with many parts used from other u
 |  2   |           DK Rap          |     asuhdude    |   Isvvc    |
 |  4   |      Purple Lamborghini   |    robertmorr   |   Isvvc    |
 |  4   |      Darude - Sandstorm   |  skylerwallace  |   Isvvc    |
+
+## Progress
+
+* ✔️ = effectively done
+* ❌ = not done
+* ❗ = needs improvements
+* ➖ = in progress
+
+_Note that parts 1 through 13 are ony the first half of the song._
+
+| Part | Note Charting | Lighting |
+|:----:|:-------------:|:--------:|
+| 1 |✔️|❌|
+| 2 |❗|❌|
+| 3 |✔️|❌|
+| 4 |✔️|✔️|
+| 5 |❌|❌|
+| 6 |❌|❌|
+| 7 |❌|❌|
+| 8 |❌|❌|
+| 9 |❌|❌|
+| 10 |❌|❌|
+| 11 |❌|❌|
+| 12 |❌|❌|
+| 13 |❌|❌|
