@@ -30,8 +30,8 @@ _Note that parts 1 through 13 are ony the first half of the song._
 | 2 |❗|❌|
 | 3 |✔️|❌|
 | 4 |✔️|✔️|
-| 5 |❌|❌|
-| 6 |❌|❌|
+| 5 |✔️|❌|
+| 6 |✔️|❌|
 | 7 |❌|❌|
 | 8 |❌|❌|
 | 9 |❌|❌|
