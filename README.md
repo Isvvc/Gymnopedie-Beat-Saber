@@ -2,6 +2,8 @@
 
 The epic quest to chart all of _The SiIva Hardcore Hour_ in Beat Saber.
 
+Slit into segments using [Beat Saber Song Splitter](https://github.com/Isvvc/Beat-Saber-Song-Splitter).
+
 ## Credits
 
 Gymnopédie - Beat Saber is a community effort with many parts used from other users' charts. Any unattributed part of the song was charted by Isvvc.
